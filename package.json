@@ -17,7 +17,8 @@
   "author": "Riya Kapuria",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
   },
   "devDependencies": {
     "nodeman": "^1.1.2",
